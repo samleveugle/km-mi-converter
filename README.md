@@ -13,4 +13,4 @@ Extra zin bij >30 km met willekeurig woord uit array.
 Technologie:
 HTML
 CSS
-JavaScript
+PHP
