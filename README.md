@@ -10,7 +10,7 @@ Features:
 - Displays results in both units
 - Extra message for distances above 30 km using a random word from an array
 
-Technologies
+Technologies:
 - HTML
 - CSS
 - PHP
