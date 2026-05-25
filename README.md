@@ -1,16 +1,16 @@
-Afstandsconverter
+Distance Converter
 
-Dit project heb ik gemaakt tijdens mijn opleiding Serverside-scripting
+Distance conversion web application created during my Serverside Scripting course.
 
-Functionaliteit:
-Formulier waarin gebruiker een afstand ingeeft (bv. 16.8km of 12mi).
-Validatie: niet leeg, min. 3 tekens, geen spaties als inhoud.
-Detecteert of invoer km of mi is.
-Converteert beide richtingen, afronden op 2 decimalen.
-Toont zin met resultaat in beide eenheden (altijd eerst km).
-Extra zin bij >30 km met willekeurig woord uit array.
+Features:
+-  distances between kilometers and miles
+- Detects both km and mi input formats
+- Input validation (required, minimum length, no spaces only)
+- Results rounded to 2 decimals
+- Displays results in both units
+- Extra message for distances above 30 km using a random word from an array
 
-Technologie:
-HTML
-CSS
-PHP
+Technologies
+- HTML
+- CSS
+- PHP
